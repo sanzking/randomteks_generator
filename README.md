@@ -1,1 +1,1 @@
-<h1>Ubah contih1-10 menjadi teks yang diinginkan</h1>
+<h1>Ubah contoh1-10 menjadi teks yang diinginkan</h1>
